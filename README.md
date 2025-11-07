@@ -44,3 +44,9 @@ mi-pagina/
 ├── contact.html        ← subpágina “Contacto”
 └── style.css           ← estilos compartidos
 
+mi-pagina/
+│
+├── index.html          ← página principal
+├── about.html          ← subpágina “Sobre mí”
+├── contact.html        ← subpágina “Contacto”
+└── style.css           ← estilos compartidos
