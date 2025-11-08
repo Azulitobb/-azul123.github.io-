@@ -1,3 +1,7 @@
+<body style="background-color: purple;">
+  <h1>Mi página Flask 💜</h1>
+</body>
+
 <img width="1080" height="1080" alt="Post de Instagram con Diagrama Infográfico de Ideas Simple Multicolor" src="https://github.com/user-attachments/assets/76dd515c-a633-4bc4-9bcf-cfd90d67e69e" />
 # -azul123.github.io-
 PROGRESO PARA APRENDIZAJE RICARDO
