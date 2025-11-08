@@ -20,6 +20,28 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi página morada 💜</title>
+  <style>
+    body {
+      background-color: purple; /* Cambia a violet, lavender o un código hexadecimal si quieres otro tono */
+      color: white; /* Para que el texto se vea bien sobre el fondo */
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenido a mi página 💜</h1>
+  <p>El fondo es morado, ¡qué elegante!</p>
+</body>
+</html>
+
 <body style="background-color: purple;">
   <h1>Mi página Flask 💜</h1>
 </body>
