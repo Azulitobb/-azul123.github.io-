@@ -340,4 +340,5 @@ mi-pagina/
 ├── about.html          ← subpágina “Sobre mí”
 ├── contact.html        ← subpágina “Contacto”
 └── style.css           ← estilos compartidos
+print;(hoala a a)
 
